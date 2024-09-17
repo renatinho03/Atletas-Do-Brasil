@@ -21,7 +21,7 @@ body {
     justify-content: center; /* Centraliza os itens verticalmente */
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    background-image: url('/AtletasDoBrasil-main/img/fundo.jpg'); /* Define a imagem de fundo */
+    background-image: url('/Atletas-Do-Brasil/img/fundo.jpg'); /* Define a imagem de fundo */
     background-size: cover; /* Ajusta a imagem para cobrir todo o main */
     background-color: rgba(255, 255, 255, 0.8); /* Define a cor de fundo com opacidade */
     background-blend-mode: lighten; /* Mistura a imagem com o fundo branco */
